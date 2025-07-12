@@ -10,6 +10,7 @@
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
 ![Screenshot_33](https://github.com/user-attachments/assets/e81b143c-15a4-4e5d-a56b-d9efde7acdf5)
 ![Screenshot_34](https://github.com/user-attachments/assets/fadf6f55-31cf-4a25-bb03-0ea1b74c308a)
+![Screenshot_35](https://github.com/user-attachments/assets/e0e2e909-81d9-4bd3-b5fa-e2d5103503d6)
 
 
 ![Screenshot_38](https://github.com/user-attachments/assets/d2d3dd28-7c0e-4d06-8730-dadb4310fbd3)
